@@ -76,7 +76,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--cor_hover);
 }
 
